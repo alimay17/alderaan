@@ -1,0 +1,18 @@
+/*=============================================
+=            Main CSS for UofA                =
+=============================================*/
+:root{
+  --heading-color: #CC0000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 200px;
+}
+
+h1 {
+  color: var(--heading-color);
+}
